@@ -12,10 +12,32 @@ created_at: "2025-06-01"
 
 
 - I will use 6*15 matrix. It is not the best layout but it makes matrix more clear and easy to design.
-- ![Matrix Map](/images/matrix_map.jpg)
+
+[![Key map](/images/6.1//matrix_map.jpg)](/images/6.1//matrix_map.jpg)
 
 
 Completed schematic of key matrix
-- ![Key Matrix Schematic](/images/matrix_schematic.png)  
+
+[![Key matrix](/images/6.1//matrix_schematic.png)](/images/6.1//matrix_schematic.png)
 
 **Total time spent: 2h**
+
+
+---
+# June 2nd: PCB and case done
+
+- I completed pcb design
+### Schematic  
+[![Schematic](images/6.2/schematic.png)](images/6.2/schematic.png)
+
+### PCB Layout
+[![PCB](images/6.2/PCB.png)](images/6.2/PCB.png)
+- battery will be added to the design.
+
+- and I finished case design on onshape. I'm going to use heatset insert for tray mount.
+
+[![Case](images/6.2/case.png)](images/6.2/case.png)
+[![Plate](images/6.2/Plate.png)](images/6.2/Plate.png)
+
+
+**Total time spent: 6h**
