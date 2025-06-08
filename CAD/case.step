@@ -14,12 +14,12 @@ cturing Information (PMI)---4.0---2014-10-13',
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '68430f453424a300c032a83b',
-/* time_stamp */ '2025-06-06T15:54:46Z',
+/* name */ '6845c400a2a3170e3ac70dff',
+/* time_stamp */ '2025-06-08T17:10:25Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'ONSHAPE BY PTC INC, 1.198',
+/* originating_system */ 'ONSHAPE BY PTC INC, 1.199',
 /* authorisation */ '  ');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
