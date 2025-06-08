@@ -232,6 +232,10 @@ STILL NOT WORKING!!!!!!!!!!!!!!!!!
 # June 8th: Done!!!!
 
 I learnt a lot about ZMK. I wasn't really understanding how it works and kinda depended on ai. But now I know how these thing work and completed writing config. And github action successfully compiled the config. The problem that i was struggling with was about expansion board driver. But I found out that ZMK doesn't support my board. So I did some research and found similar board with 8 pins. which was half of my board. So i used two of these board in the configuration to make 16 pin board :)) and it WORKS now!! yayyy 
+[![success](images/6.8/success.png)](images/6.8/success.png)
+
+
+
 
 Also, I made BOM for the project and found sources of all parts today. and made some minor changes to case.
 
