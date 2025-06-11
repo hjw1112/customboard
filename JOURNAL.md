@@ -240,3 +240,15 @@ I learnt a lot about ZMK. I wasn't really understanding how it works and kinda d
 Also, I made BOM for the project and found sources of all parts today. and made some minor changes to case.
 
 **Total time spent: 3h**
+
+
+---
+# June 10th: More changes :((
+
+I made some change to BOM and PCB design.
+
+First, I changed some routing on pcb since i thought there is much better way than putting all column route at the bottom of the pcb. So I moved some column route.
+And for BOM, I added M2.5 hex nut and replaced standoff to alternative. So total cost is increased a bit. Also, I didn't calculate shipping cost from jlc pcb, so pcb will cost ~40$ total. I added all updated info to csv file in root dir and readme.md
+
+**Total time spent: 2h**
+
