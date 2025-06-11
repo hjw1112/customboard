@@ -251,5 +251,34 @@ First, I changed some routing on pcb since i thought there is much better way th
 
 And for BOM, I added M2.5 hex nut and replaced standoff to alternative. So total cost is increased a bit. Also, I didn't calculate shipping cost from jlc pcb, so pcb will cost ~40$ total. I added all updated info to csv file in root dir and readme.md
 
+
+
+### Updated BOM
+| Component          | Price              |Source|
+| --------           | -------            |---------     |
+| NRF52840 Development Board | $4.38 (€3.84) | Aliexpress |
+| Kailh hot swap sockets | $8.54 (€7.50) | Aliexpress |
+| Akko V3 Pro Cream Blue Switch (90pcs) | $31.95 (€28.07) | Aliexpress |
+| 0.91 inch OLED | $2.47 (€2.17) | Aliexpress|
+| TCA9555 Expansion Board | $3.48 (€3.06) | Aliexpress |
+| PCB mounted Screw-in Original Cherry PCB Stabilizers | $11.12 (€9.74) | Aliexpress |
+| EC11 Rotary Encoder | $5.09 (€4.47) | Aliexpress |
+| 1N4148 Diodes (100pcs) | $1.41 (€1.24) | Aliexpress |
+| 0603 SMD 100nF Capacitor (100pcs) | $1.30 (€1.14) | Aliexpress |
+| 0603 SMD 4.7K Resistor (100pcs) | $1.02 (€0.94) | Aliexpress |
+| M2.5 heatset insert (50pcs) | $2.32 (€2.04) | Aliexpress |
+| M2.5 Screws | $5.22 (€4.59) | Aliexpress |
+| foam | $6.48 (€5.69) | Aliexpress |
+| Keycaps | $19.97 (€17.55) | Aliexpress |
+| Battery + connector | $8.33 (€7.30) | Aliexpress |
+| Cable | $11.96 (€10.48) | Aliexpress |
+| PCB | $19.30 + 17.52(shipping) | JLC PCB |
+| Standoffs | 4.60$ | Aliexpress |
+| M2.5 nut | 0.89$ | Aliexpress |
+| Total | $141.34 | - |
+
 **Total time spent: 2h**
+
+
+
 
